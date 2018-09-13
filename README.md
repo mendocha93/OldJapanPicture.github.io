@@ -1,2 +1,2 @@
 # OldJapanPicture.github.io
-<img src="https://mendocha93.github.io/OldJapanPicture.github.io/img/japan1.png" alt"picture>
+<img src="https://camo.githubusercontent.com/75b8fd76a756a93105e745e90d473a1171a783e6/68747470733a2f2f6c61622e6769746875622e636f6d2f7075626c69632f696d616765732f69737375655f7461622e706e67" alt"picture>
